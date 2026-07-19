@@ -281,6 +281,7 @@ After deployment, MSAP administrators will maintain website and application cont
 - Should push notifications be enabled?
 - Is offline access required?
 - Should events support RSVP functionality?
+- What specific details should members be permitted to share in their profile?
 
 ---
 
