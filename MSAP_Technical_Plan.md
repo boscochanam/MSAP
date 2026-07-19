@@ -93,8 +93,8 @@ Verified alumni using the mobile application.
 |------|--------|------|
 | Website | Next.js | SEO-friendly, responsive, and fast |
 | Mobile App | Flutter | Cross-platform Android & iOS |
-| Backend | Supabase | Backend-as-a-Service |
-| Database | PostgreSQL | Relational database |
+| Backend | Node.js | Backend-as-a-Service |
+| Database | MongoDB | No Sql database |
 | Hosting | Vercel + Supabase | Reliable cloud hosting |
 | Admin / CMS | Supabase Dashboard + Custom Admin Panel | Easy content management |
 | Authentication | Supabase Auth | Secure email authentication |
